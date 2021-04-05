@@ -27,6 +27,7 @@
 - Inset faces - to create more faces on a face. Used to create quads instead of n-gons
   - Mesh/Merge/At center - after inseting some parts, merge the rest at center to create triangles
 - Loop cut - creates more faces to work with. Also adding more allows modifiers to make the object hold its shape better
+- transforming and scaling vertices, edges and faces is useful 
 
 ### Smoothing things out
 - subdivision modifier - subdivides shape to make it smoother?
@@ -37,4 +38,7 @@
 - Mirro modifiers - mirrors an object. The mirror will change along with its opposite
   - delete half of one object and mirror it
 
-### 
+### Selection
+- alt click - select connecting vertices
+- shift click - multi select
+- 
