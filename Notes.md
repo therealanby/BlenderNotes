@@ -19,6 +19,8 @@
 - add button
 - you'll mostly use add mesh
 - Object button, snap, and cursor to selected. This makes it so that when you add objects, it will be added at the selected area
+- add operations - right after you add an object, you can make last changes to it. Once you click out, you can't access that again
+- 
 
 ### Editing using edit mode
 - Extrude for creating more unique shapes
@@ -35,6 +37,7 @@
 - shade smooth - object mode, right-click. smooths things out
 
 ### Helpful modifiers
+- Remember to apply transformation in Objects menu. The transformation if not applied might mess with the modifiers.
 - Mirro modifiers - mirrors an object. The mirror will change along with its opposite
   - delete half of one object and mirror it
 
