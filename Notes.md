@@ -1,6 +1,7 @@
 ### Modes
 1. Object Mode - Mainly used for viewing the overall model. You can scale, move, and rotate the object. You can also do some other stuff. 
 2. Edit Mode - Used for editing specific parts of the model. You can add loop cuts, extrude regions and some other stuff.
+3. Tab to easily switch between the two
 
 ### Navigation
 - Middle mouse for rotating
