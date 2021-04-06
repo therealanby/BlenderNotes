@@ -15,3 +15,8 @@
 - UV/pack islands - separates objects in an object
 - select/select linked - selects linked faces
 - UV/average island scale and UV/pack islands
+- mirror modifier: you have to apply the modifier in object mode so the uv is now one uv instead of two(one and one mirrored)
+- Smart UV Project: fixes really messed up uv
+  - when applying this, make sure the scale is applied 
+- Smart UV is goto uv generator. It's not perfect but it works for most scenarios
+- Cube projection also is nice
