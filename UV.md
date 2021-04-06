@@ -12,3 +12,6 @@
   - scroll to zoom
   - middle mouse to pan
   - left drag to zoom uv
+- UV/pack islands - separates objects in an object
+- select/select linked - selects linked faces
+- UV/average island scale and UV/pack islands
