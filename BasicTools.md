@@ -12,4 +12,4 @@
 6. Shade smooth - smoothes out angles. Useful for making round objects
 7. Subdivison Surface (modifier) - subdivides faces/makes more faces. Useful for making round shapes
 8. Bevel (modifier) - basically bevel but it's a modifier. It will create a bevel where two faces meet. You can control which faces get beveled by changing the angles that the two faces must make to be beveled. 
-9. 
+
