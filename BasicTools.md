@@ -1,6 +1,6 @@
 ## Basic Tools
 **Bascially the only tools that you really need to make a good model**
-*Note: this excludes texturing and shading**
+*Note: this excludes texturing and shading*
 
 [Video reference](https://www.youtube.com/watch?v=kejQ8nX5YZA)
 
