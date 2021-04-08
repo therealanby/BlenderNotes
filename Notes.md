@@ -46,3 +46,4 @@
 - alt click - select connecting vertices
 - shift click - multi select
 - alt-shift-drag - slower number change for values
+- select/select more-less - grow/shrink selections
