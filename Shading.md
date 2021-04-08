@@ -39,4 +39,5 @@
 - click assign
 
 **Rune Node Connection**
-- 
+- UV Map -> Mapping -> runes.jpg -> hue sat value -> multiply -> BSDF(emission) -> output
+- (uv map input) -> (location and scale of texture) -> (texture itself) -> (set value to 500 to show glow) -> (multiply adds color) -> (connect to emission. this makes the texture glow with that texture) -> (output to object I guess)
