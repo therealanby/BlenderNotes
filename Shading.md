@@ -25,4 +25,18 @@
 **Node Conncetions**
 - input/UV map -> vector/mapping -> image.jpg -> principled BSDF -> Material output
 - (UV of object is inputted) -> (scale of UV) -> (texture?) -> (shading) -> (output)
+- you can add in multiple pictures into the node network
+
+**Effects**
+- color/hue saturation value/value - the value controls how "glowy" the image is
+-  scene/render engine(eevee)/bloom - this will add the glow effect
+-  color/multiply - color change]
+
+**Assign materials to areas**
+- select faces
+- go to materials tab
+- create a new material using "+"
+- click assign
+
+**Rune Node Connection**
 - 
