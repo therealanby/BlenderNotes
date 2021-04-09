@@ -16,4 +16,13 @@
 - shading workspace
 - node network
 - world/view/frame all - access the background
-- 
+- http://www.hdrlabs.com/sibl/archive.html for custom hdri
+- to add one: add/texture/environment texture - upload a hdri to that node and connect it to background/color
+- to frame the hdri/move it around: texture coordinate (generated) -> mapping (vector)
+- mapping vector can connect to multiple nodes
+- input/light path node - controls raytracing stuff
+- shader/mix shader - connecting two hdr/background nodes
+- 2x background + light path(is camera ray) -> mixshader -> world output
+- creates blurry hdri and also clear reflection on object
+
+**Color Grade**
