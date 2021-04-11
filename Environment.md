@@ -26,3 +26,7 @@
 - creates blurry hdri and also clear reflection on object
 
 **Color Grade**
+- cinematic world
+- compositing tab
+- add/color/color balance
+- good node for color grading 
