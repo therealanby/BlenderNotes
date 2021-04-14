@@ -43,3 +43,12 @@
 - eye icon to hide things
 - viewpoint visibility and render visibility (change render visibility in filter)
 - good to name objects and group them into named collections
+
+**Duplicate linked**
+- creates an instance of an object
+- not full duplicate but a reference to an object
+- doesn't create a new object/mesh, just new transform values
+- when you edit the mesh of one instance, all other instances are edited
+
+**Eevee render**
+- ambient occlusion for better depth
