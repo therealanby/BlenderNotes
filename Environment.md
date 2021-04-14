@@ -30,3 +30,16 @@
 - compositing tab
 - add/color/color balance
 - good node for color grading 
+
+**Importing**
+- file/append for blender files
+- file/import for other files (.fbx and .obj are most common)
+
+**Outliner**
+- located on the right
+- shows a list view of all objects in the scene
+- you can make collections (for organization and grouping purposes)
+- you can view modifiers and material properties
+- eye icon to hide things
+- viewpoint visibility and render visibility (change render visibility in filter)
+- good to name objects and group them into named collections
