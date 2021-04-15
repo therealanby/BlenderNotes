@@ -10,4 +10,5 @@
 - shading tab
 - world nodes is where to add the atmosphere
 - volume metrics in the world output is the thing to use
-- 
+- add/shader/emission - adds atmosphere/depth(adjust strength)
+- compositing tab: add/color/gamma - adjusts grey values (bright and dark value crunching) (helps scene not feel so washed out)
