@@ -30,6 +30,7 @@
 - compositing tab
 - add/color/color balance
 - good node for color grading 
+- remember to check "use nodes" for node values to show up in render
 
 **Importing**
 - file/append for blender files
