@@ -17,4 +17,7 @@
 - right click that and add keyframe
 
 **combine renders**
-
+- lol
+- create a new project
+- go to video editor tab
+- combine the two rendered videos
