@@ -5,6 +5,7 @@
 - view/camera/frame camera bounds
 - focus lens
 - opacity/passepartout
+- focal lens (50mm = grand, 90 mm = sleek)
 
 **UI Stuff**
 - scene collection/(right-click) area/vertical split - sets up two viewports. one for working and one for camera view
