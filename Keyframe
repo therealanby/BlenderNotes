@@ -1,5 +1,0 @@
-1. select camera object
-2. set up location
-3. at the frame you want, right click the location of camera in right workspace and select insert keyframe
-4. move to a different frame and insert a new keyframe for a new camera position
-5. this should make a simple camera movement animation. moving from the position at frame 1 to the position at frame x(the other frame which has a position set up)
